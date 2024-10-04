@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,ol,li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color:black;
+    cursor:pointer;
+}
+
+body {
+    font-size: 14px;
+    
+}
+
+input {
+    outline-style: none;
+    border: 0 none;
+}
+
+li {
+    text-align: -webkit-match-parent;
+    unicode-bidi: isolate;
+}
